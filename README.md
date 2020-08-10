@@ -8,7 +8,7 @@ To install the Counselling Application:
 2. Download the latest 'CounselingApplication.jar' file.
 3. Simply move the application to somewhere easily accessible (like your desktop) and open the file. Voila!
 
-If you are having any issues with getting the '.jar' file to run, you likely have to download the latest version of [Java Oracle.](https://java.com/en/download/)
+**NOTE: If you are having any issues with getting the '.jar' file to run, you likely have to download the latest version of [Java Oracle.](https://java.com/en/download/)
 
 ## Built With
 
