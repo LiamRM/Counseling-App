@@ -1,22 +1,18 @@
 # Counseling Application
 This application is primarily meant as a tool for guidance counsellors to more easily organize their case notes on their students. 
 
-## Getting Started
-
-If you are having any issues with getting the '.jar' file to run, you likely have to download the latest version of [Java Oracle.](https://java.com/en/download/)
-
-### Installing
+## 🚀 Getting Started
 
 To install the Counselling Application: 
 1. Go to the 'Releases' pane on the right side. 
 2. Download the latest 'CounselingApplication.jar' file.
 3. Simply move the application to somewhere easily accessible (like your desktop) and open the file. Voila!
 
-End with an example of getting some data out of the system or using it for a little demo.
+If you are having any issues with getting the '.jar' file to run, you likely have to download the latest version of [Java Oracle.](https://java.com/en/download/)
 
 ## Built With
 
-* [Dropwizard](https://www.eclipse.org/) - The IDE used
+* [Eclipse](https://www.eclipse.org/) - The IDE used
 * Java - The programming language
 
 ## Contributing
